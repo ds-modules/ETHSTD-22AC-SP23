@@ -3,7 +3,7 @@
 
 Professor: Victoria E. Robinson
 
-Module Developers: Content previously developed by Ashley Quiterio, Karla Palos, Shalini Kunapuli, Alma Pineda, William McEachen, Skye Pickett, Caitlin Yee, and Salvador Ramirez Jr. 
+Module Developers: Content developed by Ashley Quiterio, Karla Palos, Shalini Kunapuli, Alma Pineda, William McEachen, Skye Pickett, Caitlin Yee, and Salvador Ramirez Jr. 
 
 These notebooks explore the incarceration trends and impacts of prison realignment in California, which began in the year 2011.
 
